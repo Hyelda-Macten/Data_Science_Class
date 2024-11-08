@@ -1,0 +1,9 @@
+,Column Labels,,,,,,,,,
+,Children's Clothing,,Men's Clothing,,Women's Clothing,,(blank),,Total Max of Sales,Total Count of Units
+Row Labels,Max of Sales,Count of Units,Max of Sales,Count of Units,Max of Sales,Count of Units,Max of Sales,Count of Units,,
+East,1122,113,1054,122,1054,176,,,1122,411
+North,1088,85,1155,89,1122,142,,,1155,316
+South,924,45,1085,39,1122,53,,,1122,137
+West,992,42,930,41,1023,53,,,1023,136
+(blank),,,,,,,,,,
+Grand Total,1122,285,1155,291,1122,424,,,1155,1000
